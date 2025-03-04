@@ -36,6 +36,7 @@ Embodied intelligence is one of the most critical carrier for general artificial
 | 2024-10 |  Bimanual Diffusion   |          THU          | [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/pdf/2410.07864)                                 |  [thu-ml/RoboticsDiffusionTransformer](https://github.com/thu-ml/RoboticsDiffusionTransformer)  |
 | 2024-10 | Video-Language-Action |       ByteDance       | [GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation](https://arxiv.org/abs/2410.06158) |                                                -                                                |
 | 2024-10 |     Flow Matching     | Physical Intelligence | [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164)                              |                                                -                                                |
+| 2025-01 |     SpatialVLA        | Shanghai AI Laboratory| [SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models](https://arxiv.org/pdf/2501.15830)                | [SpatialVLA]([https://github.com/thu-ml/RoboticsDiffusionTransformer](https://github.com/SpatialVLA/SpatialVLA) |
 
 
 ## Datasets & Benchmark
