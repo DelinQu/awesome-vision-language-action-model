@@ -47,6 +47,7 @@ Embodied intelligence is one of the most critical carrier for general artificial
 | 2024-08 | Data Mixtures | Stanford  | [Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning](https://arxiv.org/pdf/2408.14037) |                      [jhejna/remix](https://github.com/jhejna/remix)                      |
 | 2024-05 |   Real2Sim    |   UCSD    | [Evaluating Real-World Robot Manipulation Policies in Simulation](https://arxiv.org/abs/2405.05941)     |            [simpler-env/SimplerEnv](https://github.com/simpler-env/SimplerEnv)            |
 | 2023-06 |   Lifelong    |    UT     | [Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310)         |    [Lifelong-Robot-Learning/LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO)    |
+| 2026-08 | Adversarial Eval |     -     | [Provael: adversarial evaluation for VLA policies](https://doi.org/10.5281/zenodo.21984184) *(software, no paper)* |    [provael/provael](https://github.com/provael/provael)    |
 
 
 ## Tutorials and Courses
